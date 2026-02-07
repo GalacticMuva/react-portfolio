@@ -22,7 +22,7 @@ function App() {
       id: 3,
       title: "React Portfolio",
       description: "This very site! Built using React, Bootstrap, and custom CSS hover effects.",
-      link: "https://github.com/GalacticMuva/React-personal-portfolio.git" 
+      link: "https://github.com/GalacticMuva/react-portfolio.git" 
     }
   ];
 
