@@ -1,0 +1,19 @@
+body {
+  background-color: #121212; /* Deep dark background */
+  color: #e0e0e0;
+}
+
+
+.card {
+  background-color: #1e1e1e; /* Slightly lighter gray for cards */
+  border: 1px solid #333;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.card:hover {
+  transform: translateY(-10px); 
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2) !important; 
+  border-color: #00ff9d;
+  cursor: pointer;
+}
